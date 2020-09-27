@@ -1,0 +1,14 @@
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\bin\Release\LunaBotWPF.exe.config
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\bin\Release\LunaBotWPF.exe
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\bin\Release\LunaBotWPF.pdb
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\obj\Release\LunaBotWPF.csprojResolveAssemblyReference.cache
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\obj\Release\MainWindow.g.cs
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\obj\Release\App.g.cs
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\obj\Release\LunaBotWPF_MarkupCompile.cache
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\obj\Release\LunaBotWPF_MarkupCompile.lref
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\obj\Release\MainWindow.baml
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\obj\Release\LunaBotWPF.g.resources
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\obj\Release\LunaBotWPF.Properties.Resources.resources
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\obj\Release\LunaBotWPF.csproj.GenerateResource.Cache
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\obj\Release\LunaBotWPF.exe
+H:\Users\Dariel\documents\visual studio 2015\Projects\LunaBot\LunaBotWPF\obj\Release\LunaBotWPF.pdb

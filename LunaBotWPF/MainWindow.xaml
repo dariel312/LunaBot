@@ -1,0 +1,28 @@
+﻿<Window x:Class="LunaBotWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LunaBotWPF"
+        mc:Ignorable="d"
+        Title="Luna Bot" Height="311" Width="478" Background="#FF3F3F46">
+    <Grid>
+        <TabControl TabStripPlacement="Left" Margin="0,0,0,61">
+            <TabItem Header="General" Height="32" IsSelected="True">
+                <Label Content="Content goes here..." />
+            </TabItem>
+            <TabItem Header="Security" Height="32"/>
+            <TabItem Header="Details" Height="32" Background="White"/>
+        </TabControl>
+        <ProgressBar Margin="0,0,11,10"  RenderTransformOrigin="0.5,0.5" VerticalAlignment="Bottom" HorizontalAlignment="Right" Height="29" Width="298">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="-1" ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.029"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+    </Grid>
+</Window>
